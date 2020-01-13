@@ -17,7 +17,8 @@ namespace ConsoleApp1
             //  test();
             //  Program2.testNiMingMethod();
             // TestDelegate.Main5();
-            TestIndexer.Main6();
+            // TestIndexer.Main6();
+            TestEvent.Main1();
             Console.ReadKey();
          
         }
