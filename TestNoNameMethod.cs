@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 delegate void TestMethod(int n); //1. 声明匿名函数的类型
 namespace ConsoleApp1
 {
-    class Program2
+    class TestNoNameMethod
     {
 
       //  匿名函数测试
